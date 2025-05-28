@@ -19,7 +19,7 @@ body {
 
 #conteudo {
     text-align: center;
-    color:#9a845f;
+    color: #578863;
     margin: 50px;
 }
 
@@ -138,8 +138,16 @@ footer {
 }
 
 #sinopse {
-    text-align: center;
-    color: #9a845f;
+    align-items: center;
+    color: #578863;
+    /*
+    Muda max width pro tamanho que tu quer
+    */
+    max-width: 400px;
+    /*
+    Não muda isso
+    */
+    margin: 0 auto;
 }
 
 #trailer {
