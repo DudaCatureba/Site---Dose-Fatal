@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-family: "Poppins";
     margin: 0;
-    padding: 0;
+    padding: 0 0 100px 0;
     background-color: #635666;
     transition: margin-left 0.5s ease;
 }
@@ -163,4 +163,12 @@ footer {
 
 .lepe {
     width: 250px;
+
+}
+
+.trailer1 {
+    width: 100%;
+    height: 500px;
+    max-width: 800px;
+    margin: 0 auto;
 }
