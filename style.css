@@ -177,3 +177,11 @@ footer {
     width: 350px;
 
 }
+
+#instagram {
+    width: 100%;
+  max-width: 100%;
+  height: 500px; /* sla */
+  border: none;
+  display: block;
+}
